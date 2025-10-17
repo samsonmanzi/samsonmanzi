@@ -75,7 +75,7 @@ You can explore detailed documentation, diagrams, and implementation notes for e
 
 ## 🌍 Connect with Me
 
-📫 **Email:** [mrsamsonmanzi@gmail.com](mailto:mrsamsonmanzi@gmail.com) | (mailto:mrsamsonmanzi@gmail.com)
+📫 **Email:** [mrsamsonmanzi@gmail.com](mailto:mrsamsonmanzi@gmail.com) | [connect@samsonmanzi.com](mailto:connect@samsonmanzi.com)
 💼 **LinkedIn:** [linkedin.com/in/samson-manzi-a0864a51](https://www.linkedin.com/in/samson-manzi-a0864a51/)  
 🌐 **Portfolio:** [samsonmanzi.com](https://samsonmanzi.com)
 
